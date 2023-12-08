@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="greyish">#FFb2babb </color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="seafoam">#00ef7a</color>
+    <color name="clearseafoam">#6400ef7a</color>
+    <color name="hpink">#ff156f</color>
+    <color name="neoblue">#000bf4</color>
+    <color name="sand">#ffdea6</color>
+    <color name="violet">#4900f3</color>
+    <color name="skyblue">#a7fdff</color>
+    <color name="psalmon">#ffa7c1</color>
+    <color name="slime">#e2ffa7</color>
+    <color name="ppurle">#a7b1ff</color>
+    <color name="pyellow">#ffeea7</color>
+    <color name="puzzle_background">#000ba1</color>
+    <color name="puzzle_hilite">#ffffffff</color>
+    <color name="puzzle_light">#64c6d4ef</color>
+    <color name="puzzle_dark">#6456648f</color>
+    <color name="puzzle_foreground">#ff000000</color>
+    <color name="puzzle_hint_0">#64ffa7c1</color>
+    <color name="puzzle_hint_1">#64e2ffa7</color>
+    <color name="puzzle_hint_2">#64a7b1ff</color>
+    <color name="puzzle_selected">#64a7fdff</color>
+
+</resources>
